@@ -1,0 +1,5 @@
+language: java
+jdk: openjdk8
+dist: trusty
+install: gradle assemble
+script: gradle clean build
