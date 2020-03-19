@@ -1,5 +1,7 @@
 # JDBC-stub
 
+[![Build Status](https://travis-ci.com/battlemaster/JDBC-stub.svg?branch=master)](https://travis-ci.com/battlemaster/JDBC-stub)
+
  Usage:
  JDBC driver should be added as dependency in required project.
  Connection line is like:
